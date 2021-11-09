@@ -1,11 +1,11 @@
 // Copyright (c) 2021 Abdul Basit All rights reserved
 //
-// Created by: Abdul Basit 
-// Created on: Sep 2020
+// Created by: Abdul Basit
+// Created on: Nov 2021
 // This program does basic math
 
 #include <iostream>
-#include <math.h>       /* pow */
+#include <basicmath.h>       /* pow */
 
 int main() {
     std::cout << "9+2=" << (9 + 2) << std::endl;
