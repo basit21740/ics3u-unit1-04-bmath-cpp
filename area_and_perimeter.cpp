@@ -1,11 +1,12 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2021 Abdul Basit All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Abdul Basit
+// Created on: Nov 2021
 // This program calculates the area and perimeter of a rectangle
 //    with dimensions 5cm x 3cm
 
 #include <iostream>
+#include <cmath>
 
 int main() {
     std::cout << "If a rectangle has the dimensions: " << std::endl;

@@ -5,7 +5,7 @@
 // This program does basic math
 
 #include <iostream>
-#include <basicmath.h>       /* pow */
+#include <math.h>       /* pow */
 
 int main() {
     std::cout << "9+2=" << (9 + 2) << std::endl;
